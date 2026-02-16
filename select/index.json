@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Shadow World",
+  "base_artist": "平田志穂子",
+  "createdAt": "2026-02-16T15:50:16.918516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Xeno & Oaklander",
+      "has_synced": false,
+      "path": "select/01_Shadow_World_Xeno_&_Oaklander.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/02_Shadow_World_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "目黒将司",
+      "has_synced": false,
+      "path": "select/03_Shadow_World_目黒将司.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Soul Embraced",
+      "has_synced": false,
+      "path": "select/04_Shadow_World_Soul_Embraced.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Shōji Meguro",
+      "has_synced": true,
+      "path": "select/05_Shadow_World_Shōji_Meguro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/06_Shadow_World_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/07_Shadow_World_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/08_Shadow_World_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kings of the Shadow World",
+      "artist": "Chimaira",
+      "has_synced": true,
+      "path": "select/09_Kings_of_the_Shadow_World_Chimaira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "The Haunted",
+      "has_synced": false,
+      "path": "select/10_Shadow_World_The_Haunted.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Diablo",
+      "has_synced": true,
+      "path": "select/11_Shadow_World_Diablo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Bénédiction",
+      "has_synced": false,
+      "path": "select/12_Shadow_World_Bénédiction.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Shadow World",
+      "artist": "Feared",
+      "has_synced": true,
+      "path": "select/13_My_Shadow_World_Feared.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "Nunslaughter",
+      "has_synced": false,
+      "path": "select/14_Shadow_World_Nunslaughter.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shadow World",
+      "artist": "The Haunted",
+      "has_synced": false,
+      "path": "select/15_Shadow_World_The_Haunted.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shadow World",
+      "artist": "平田志穂子",
+      "has_synced": false,
+      "path": "select/pl_01_Shadow_World_平田志穂子.txt"
+    }
+  ]
+}
